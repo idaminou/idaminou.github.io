@@ -107,14 +107,14 @@ span {
 }
 .cur {
     position: absolute;
-    top: 65%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .centered {
     position: absolute;
-    top: 70%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -131,7 +131,7 @@ span:after {
 
 .mainpix {
     position: absolute;
-    top: 30%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     display: block;
